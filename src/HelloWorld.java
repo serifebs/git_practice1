@@ -6,5 +6,8 @@ public class HelloWorld {
     // yaptigin commit`leri gormek icin sol alttaki "git" -> "log" a tikla.
     // comment
     //comment
+    //comment
+    //true
+    //false
 }
 
